@@ -6,8 +6,8 @@
   - Twitter: [@azouga_mourad](https://twitter.com/azouga_mourad)
 
 ## Project Lead contributor
-- [To be made] <email@gmail.com>
-  - GitHub: [@TO BE MADE](https://github.com/link)
+- [Firdaous Fatmi] <ftmfirdaous@gmail.com>
+  - GitHub: [@firdaous01](https://github.com/Firdaous01)
   - Twitter: [@TO BE MADE] (https://twitter.com/link)
 
 ## Project Lead contributor
